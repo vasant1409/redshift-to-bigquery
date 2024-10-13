@@ -14,7 +14,8 @@ Redshift
 At Cloudside, we have migrated hundreds of customers from various data warehouses to BigQuery. In this post, I will walk you through one of the migrations I have been part of — Redshift to BigQuery. The steps outlined below ensure smoother data migration from Redshift and S3 to BigQuery, with minimal manual intervention.
 
 To follow along with this guide, I assume you already have a Redshift cluster, so we will start with creation of a stored procedure that iterates through all the existing tables and unloads data to S3
-''
+
+
 CREATE OR REPLACE PROCEDURE public.unload_all_to_s3()
 LANGUAGE plpgsql
 AS $$
@@ -52,7 +53,9 @@ END LOOP;
 RAISE info: 'Completed sync to S3';
 END;
 $$;
-''
+
+
+
 CALL public.unload_all_to_s3();
 Transfer Files from S3 to Google Cloud Storage (GCS)
 Once the data has been exported to S3, the next step is to transfer it to GCP using a Transfer Job service.
