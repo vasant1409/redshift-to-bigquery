@@ -1,0 +1,18 @@
+2024-08-22 22:55:25.555 [info] Extension host with pid 16254 started
+2024-08-22 22:55:25.591 [info] Lock '/home/vasant_sam/.vscode-server/data/User/workspaceStorage/22b22254b4952bd107af811ef924b342/vscode.lock': Lock acquired.
+2024-08-22 22:55:25.697 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-08-22 22:55:25.750 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-08-22 22:55:25.751 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-08-22 22:55:26.402 [info] Eager extensions activated
+2024-08-22 22:55:26.403 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-08-22 22:55:26.404 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-08-22 22:56:02.315 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-08-22 22:56:40.827 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-08-22 22:56:40.828 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-08-22 22:56:40.829 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-08-22 22:57:06.679 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onWalkthrough:pythonWelcome'
+2024-08-22 22:57:07.934 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-08-22 22:57:07.935 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-08-22 22:57:25.622 [info] Extension host terminating: received terminate message from renderer
+2024-08-22 22:57:25.623 [info] Lock '/home/vasant_sam/.vscode-server/data/User/workspaceStorage/22b22254b4952bd107af811ef924b342/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-08-22 22:57:25.832 [info] Extension host with pid 16254 exiting with code 0

@@ -1,0 +1,24 @@
+2024-10-13 12:44:23.526 [info] (Client) Pylance async client (2024.9.2) started with python extension (2024.14.1)
+2024-10-13 12:44:25.057 [info] [Info  - 12:44:24 PM] (665) Server root directory: file:///home/vasant_sam/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist
+2024-10-13 12:44:25.067 [info] [Info  - 12:44:25 PM] (665) Pylance language server 2024.9.2 (pyright version 1.1.378, commit ce64adc1) starting
+2024-10-13 12:44:25.127 [info] [Info  - 12:44:25 PM] (665) Starting service instance "<default>"
+2024-10-13 12:44:25.198 [info] [Info  - 12:44:25 PM] (665) Setting environmentName for service "<default>": "3.10.12 (global)"
+2024-10-13 12:44:25.200 [info] [Info  - 12:44:25 PM] (665) Setting pythonPath for service "<default>": "/bin/python3"
+2024-10-13 12:44:25.200 [info] [Info  - 12:44:25 PM] (665) No include entries specified; assuming /<default workspace root>
+2024-10-13 12:44:25.201 [info] [Info  - 12:44:25 PM] (665) Auto-excluding **/node_modules
+2024-10-13 12:44:25.201 [info] [Info  - 12:44:25 PM] (665) Auto-excluding **/__pycache__
+2024-10-13 12:44:25.201 [info] [Info  - 12:44:25 PM] (665) Auto-excluding **/.*
+2024-10-13 12:44:25.266 [info] [Info  - 12:44:25 PM] (665) Assuming Python version 3.10.12.final.0
+2024-10-13 12:44:25.548 [info] [Error - 12:44:25 PM] (665) File or directory "/<default workspace root>" does not exist.
+2024-10-13 12:44:25.549 [info] [Info  - 12:44:25 PM] (665) No source files found.
+2024-10-13 12:44:25.677 [info] [Info  - 12:44:25 PM] (665) Setting environmentName for service "<default>": "3.10.12 (global)"
+2024-10-13 12:44:25.678 [info] [Info  - 12:44:25 PM] (665) Setting pythonPath for service "<default>": "/bin/python3"
+2024-10-13 12:44:25.678 [info] [Info  - 12:44:25 PM] (665) No include entries specified; assuming /<default workspace root>
+2024-10-13 12:44:25.678 [info] [Info  - 12:44:25 PM] (665) Auto-excluding **/node_modules
+2024-10-13 12:44:25.678 [info] [Info  - 12:44:25 PM] (665) Auto-excluding **/__pycache__
+2024-10-13 12:44:25.679 [info] [Info  - 12:44:25 PM] (665) Auto-excluding **/.*
+2024-10-13 12:44:25.744 [info] [Info  - 12:44:25 PM] (665) Assuming Python version 3.10.12.final.0
+2024-10-13 12:44:25.851 [info] [Error - 12:44:25 PM] (665) File or directory "/<default workspace root>" does not exist.
+2024-10-13 12:44:25.856 [info] [Info  - 12:44:25 PM] (665) No source files found.
+2024-10-13 12:44:26.405 [info] [Info  - 12:44:26 PM] (665) Background analysis(1) root directory: file:///home/vasant_sam/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2/dist
+2024-10-13 12:44:26.405 [info] [Info  - 12:44:26 PM] (665) Background analysis(1) started

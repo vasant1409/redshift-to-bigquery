@@ -1,0 +1,21 @@
+2024-09-23 22:52:03.737 [info] 
+
+
+
+
+2024-09-23 22:52:03.766 [info] Extension host agent started.
+2024-09-23 22:52:04.011 [info] [127.0.0.1][a2bdd253][ManagementConnection] New connection established.
+2024-09-23 22:52:04.058 [info] Deleted uninstalled extension from disk ms-python.python /home/vasant_sam/.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64
+2024-09-23 22:52:04.103 [info] Deleted uninstalled extension from disk ms-python.vscode-pylance /home/vasant_sam/.vscode-server/extensions/ms-python.vscode-pylance-2024.8.1
+2024-09-23 22:52:04.869 [info] [127.0.0.1][67ef6fab][ExtensionHostConnection] New connection established.
+2024-09-23 22:52:05.016 [info] [127.0.0.1][67ef6fab][ExtensionHostConnection] <564> Launched Extension Host Process.
+2024-09-23 22:52:12.502 [info] Getting Manifest... ms-python.vscode-pylance
+2024-09-23 22:52:13.371 [info] Installing extension: ms-python.vscode-pylance {"productVersion":{"version":"1.93.1","date":"2024-09-11T17:20:05.685Z"},"pinned":false,"isApplicationScoped":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/vasant_sam/.vscode-server/extensions/extensions.json","external":"file:///home/vasant_sam/.vscode-server/extensions/extensions.json","path":"/home/vasant_sam/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-09-23 22:52:15.511 [info] Getting Manifest... ms-python.python
+2024-09-23 22:52:25.818 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Executed: true. Duration: 2243ms.
+2024-09-23 22:52:47.864 [info] Extracted extension to file:///home/vasant_sam/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2: ms-python.vscode-pylance
+2024-09-23 22:52:47.893 [info] Renamed to /home/vasant_sam/.vscode-server/extensions/ms-python.vscode-pylance-2024.9.2
+2024-09-23 22:52:47.937 [info] Marked extension as uninstalled ms-python.vscode-pylance-2024.9.1
+2024-09-23 22:52:47.949 [info] Extension installed successfully: ms-python.vscode-pylance file:///home/vasant_sam/.vscode-server/extensions/extensions.json
+2024-09-23 23:04:47.221 [info] [127.0.0.1][a2bdd253][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-09-23 23:04:47.361 [info] [127.0.0.1][67ef6fab][ExtensionHostConnection] <564> Extension Host Process exited with code: 0, signal: null.

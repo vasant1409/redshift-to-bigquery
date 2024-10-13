@@ -1,0 +1,29 @@
+2024-08-22 22:55:23.323 [info] 
+
+
+
+
+2024-08-22 22:55:23.353 [info] Extension host agent started.
+2024-08-22 22:55:23.474 [info] [127.0.0.1][87f53add][ManagementConnection] New connection established.
+2024-08-22 22:55:24.048 [info] [127.0.0.1][e4464356][ExtensionHostConnection] New connection established.
+2024-08-22 22:55:24.057 [info] [127.0.0.1][e4464356][ExtensionHostConnection] <16254> Launched Extension Host Process.
+2024-08-22 22:56:13.132 [info] Getting Manifest... ms-python.python
+2024-08-22 22:56:13.323 [info] Installing extension: ms-python.python {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/vasant_sam/.vscode-server/extensions/extensions.json","external":"file:///home/vasant_sam/.vscode-server/extensions/extensions.json","path":"/home/vasant_sam/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.92.2","date":"2024-08-14T17:29:30.058Z"}}
+2024-08-22 22:56:14.210 [info] Getting Manifest... ms-python.vscode-pylance
+2024-08-22 22:56:14.422 [info] Getting Manifest... ms-python.debugpy
+2024-08-22 22:56:14.548 [info] Installing extension: ms-python.vscode-pylance {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/vasant_sam/.vscode-server/extensions/extensions.json","external":"file:///home/vasant_sam/.vscode-server/extensions/extensions.json","path":"/home/vasant_sam/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.92.2","date":"2024-08-14T17:29:30.058Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-08-22 22:56:14.549 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/vasant_sam/.vscode-server/extensions/extensions.json","external":"file:///home/vasant_sam/.vscode-server/extensions/extensions.json","path":"/home/vasant_sam/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.92.2","date":"2024-08-14T17:29:30.058Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-08-22 22:56:28.220 [info] Extension signature verification result for ms-python.python: Success. Executed: true. Duration: 8958ms.
+2024-08-22 22:56:28.568 [info] Extension signature verification result for ms-python.debugpy: Success. Executed: true. Duration: 4701ms.
+2024-08-22 22:56:31.794 [info] Extracted extension to file:///home/vasant_sam/.vscode-server/extensions/ms-python.debugpy-2024.10.0-linux-x64: ms-python.debugpy
+2024-08-22 22:56:31.817 [info] Renamed to /home/vasant_sam/.vscode-server/extensions/ms-python.debugpy-2024.10.0-linux-x64
+2024-08-22 22:56:37.926 [info] Extracted extension to file:///home/vasant_sam/.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64: ms-python.python
+2024-08-22 22:56:37.947 [info] Renamed to /home/vasant_sam/.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64
+2024-08-22 22:56:38.120 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Executed: true. Duration: 3496ms.
+2024-08-22 22:57:06.017 [info] Extracted extension to file:///home/vasant_sam/.vscode-server/extensions/ms-python.vscode-pylance-2024.8.1: ms-python.vscode-pylance
+2024-08-22 22:57:06.039 [info] Renamed to /home/vasant_sam/.vscode-server/extensions/ms-python.vscode-pylance-2024.8.1
+2024-08-22 22:57:06.081 [info] Extension installed successfully: ms-python.debugpy file:///home/vasant_sam/.vscode-server/extensions/extensions.json
+2024-08-22 22:57:06.081 [info] Extension installed successfully: ms-python.python file:///home/vasant_sam/.vscode-server/extensions/extensions.json
+2024-08-22 22:57:06.082 [info] Extension installed successfully: ms-python.vscode-pylance file:///home/vasant_sam/.vscode-server/extensions/extensions.json
+2024-08-22 22:57:25.646 [info] [127.0.0.1][87f53add][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-08-22 22:57:25.893 [info] [127.0.0.1][e4464356][ExtensionHostConnection] <16254> Extension Host Process exited with code: 0, signal: null.
