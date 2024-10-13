@@ -1,7 +1,0 @@
-2024-10-13 12:44:22.212 [info] Experiment 'pythonRecommendTensorboardExt' is active
-2024-10-13 12:44:22.213 [info] Experiment 'pythonTerminalEnvVarActivation' is active
-2024-10-13 12:44:22.213 [info] Experiment 'pythonTestAdapter' is active
-2024-10-13 12:44:22.213 [info] Python interpreter path: /bin/python3
-2024-10-13 12:44:22.370 [info] > pixi --version
-2024-10-13 12:44:22.379 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
-2024-10-13 12:44:25.110 [info] Starting Pylance language server.
